@@ -1,0 +1,160 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  color: #fff;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+  width: 350px;
+}
+
+.card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #00fff7;
+}
+
+input[type="number"],
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #00adb5;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: #007d86;
+}
+
+.output {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.output input {
+  width: 100%;
+  padding: 10px;
+  align-items: center;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+
+}
+
+
+
+/* body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  color: #fff;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
+  width: 350px;
+}
+
+.card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #00fff7;
+}
+
+input[type="number"],
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #00adb5;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: #007d86;
+}
+
+.output {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.output input {
+  flex: 1;
+} */
