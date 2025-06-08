@@ -17,7 +17,9 @@ This tool allows users to generate strong, secure passwords with various options
 ✅ Copy to clipboard with one click  
 ✅ Responsive and clean UI with CSS
 
----
+## 🌐 Live Demo
+
+🔗 [Click here to view the live project](https://react-password-generator-khaki.vercel.app/)
 
 ## 🖼️ UI Preview
 ![image](https://github.com/user-attachments/assets/e6eb086a-25ee-412f-a693-e63b9ed75129)
